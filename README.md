@@ -2,7 +2,7 @@
 
 An on-device health information companion that brings conversation, a symptom journal and a downloadable handoff into one place.
 
-Built by [Gagan Gehani](https://github.com/GG100-eng). The product explores how to make a useful AI experience around personal information while keeping inference and storage in the browser.
+I’m [Gagan Gehani](https://github.com/GG100-eng). I built this to try browser-based AI for health conversations, with local storage and a PDF the user can take away.
 
 ## The experience
 
